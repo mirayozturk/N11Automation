@@ -5,8 +5,8 @@ import org.openqa.selenium.By;
 public class N11Constants {
     public String URL = "http://www.n11.com/";
     public String URL_INFO = "www.n11.com";
-    public String EMAIL = "mozturkk123@gmail.com";
-    public String PASSWORD = "miray585";
+    public String EMAIL = "n11automation@gmail.com";
+    public String PASSWORD = "n11a1234";
 
     public String ChromeWebDriver ="webdriver.chrome.driver";
     public String ChromeWebDriverPath ="driver/chromedriver.exe";
